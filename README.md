@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**pie-12/pie-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nguyen Tung Lam, a passionate developer and technology enthusiast from Vietnam. 🚀
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 Sophomore at VKU (Vietnam - Korea University of Information and Communication Technology)
+- 🔭 Currently learning **Java Spring Boot** and **Laravel**
+- 🏆 Enthusiastic about **Competitive Programming**, **Game Development**, and **Web Pentesting**
+- 🌱 Exploring cybersecurity, software development, and open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- 🌐 [Facebook](https://www.facebook.com/pie12xD/)
+- 📸 [Instagram](https://www.instagram.com/)
+- 📧 Email: tunglamnguyenxd@gmail.com
+
+Thanks for visiting! Feel free to explore my repositories and connect with me. 😄
