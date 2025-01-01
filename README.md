@@ -3,8 +3,8 @@
 I'm Nguyen Tung Lam, a passionate developer and technology enthusiast from Vietnam. 🚀
 
 ## 🌟 About Me
-- 🎓 Sophomore at VKU (Vietnam - Korea University of Information and Communication Technology)
-- 🔭 Currently learning **Java Spring Boot** and **Laravel**
+- 🎓 Sophomore at Vietnam - Korea University of Information and Communication Technology University
+- 🔭 Currently learning **Java Spring Boot**, **Laravel** and **Japanese**
 - 🏆 Enthusiastic about **Competitive Programming**, **Game Development**, and **Web Pentesting**
 - 🌱 Exploring cybersecurity, software development, and open-source projects
 
