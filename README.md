@@ -1,6 +1,6 @@
-# Hi there! 👋
+# Hi there! ( ͡° ͜ʖ ͡°) 
 
-I'm Nguyen Tung Lam, a passionate developer and technology enthusiast from Vietnam. 🚀
+I'm Nguyen Tung Lam, a passionate developer and technology enthusiast from Vietnam. (◕‿◕)
 
 ## 🌟 About Me
 - 🎓 Sophomore at Vietnam - Korea University of Information and Communication Technology University
@@ -20,6 +20,7 @@ I'm Nguyen Tung Lam, a passionate developer and technology enthusiast from Vietn
 ## 📫 Let's Connect!
 - 🌐 [Facebook](https://www.facebook.com/pie12xD/)
 - 📸 [Instagram](https://www.instagram.com/)
+- 💻 [Codeforces](https://codeforces.com/profile/pie-12)
 - 📧 Email: tunglamnguyenxd@gmail.com
 
-Thanks for visiting! Feel free to explore my repositories and connect with me. 😄
+Thanks for visiting! Feel free to explore my repositories and connect with me. ༼ つ ◕_◕ ༽つ 
