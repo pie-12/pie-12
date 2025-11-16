@@ -8,15 +8,6 @@ I'm Nguyen Tung Lam, a passionate developer and technology enthusiast from Vietn
 - 🏆 Enthusiastic about **Competitive Programming**, **Game Development**, and **Web Pentesting**
 - 🌱 Actively exploring **Deep Learning**, **Affective Computing (Emotion AI)**, and open-source contributions
 
-## 🚀 Featured Projects
-*(This section is highly recommended. You should add 2-3 of your best projects here.)*
-
-| Project Name | Short Description | Technologies Used | Links |
-| :--- | :--- | :--- | :--- |
-| **[Project 1]** | A 1-2 sentence description of your project. What problem does it solve? | `Python` `TensorFlow` `Spring Boot` | [Repo](link) / [Live](link) |
-| **[Project 2]** | A 1-2 sentence description of your project. | `PyTorch` `FastAPI` `React` | [Repo](link) / [Live](link) |
-| **[Project 3]** | A 1-2 sentence description of your project. | `Java` `GameDev` | [Repo](link) |
-
 
 ## 🧰 Languages and Tools
 *(I've added key AI/Data tools like Python, TensorFlow, PyTorch based on your new focus)*
@@ -39,10 +30,9 @@ I'm Nguyen Tung Lam, a passionate developer and technology enthusiast from Vietn
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pie-12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pie-12&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-*(Nhớ thay `YOUR_GITHUB_USERNAME` bằng tên user GitHub của bạn)*
 
 ## 📫 Let's Connect!
 - 🌐 [Facebook](https://www.facebook.com/pie12xD/)
